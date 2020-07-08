@@ -3,5 +3,3 @@ Disallow: /pushnotifications/translator-license.txt
 Disallow: /pushnotifications/standard-license.txt
 Disallow: /pushnotifications/extended-license.txt
 Disallow: /pushnotifications/reseller-license.txt
-
-Disallow: /httpproxy/license.txt
